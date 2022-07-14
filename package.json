@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/Sergey17777/AJS_1_10_3_generators#readme"
 },
-  "devDependencies": {
+"devDependencies": {
     "@babel/cli": "^7.11.5",
     "@babel/core": "^7.11.5",
     "@babel/preset-env": "^7.11.5",
